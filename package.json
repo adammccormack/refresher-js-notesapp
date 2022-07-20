@@ -12,9 +12,10 @@
   "license": "ISC",
   "dependencies": {
     "esbuild": "^0.14.43",
-    "jest": "^28.1.1"
+    "jest": "^28.1.1",
+    "jest-environment-jsdom": "^28.1.1",
+    "jsdom": "^19.0.0"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alldigits/refresher-js-notesapp.git"
